@@ -4,7 +4,7 @@ Este projeto implementa um sistema de IoT para monitoramento de temperatura e um
 
 ## Código e Documentação
 
-O código principal está localizado na pasta `sistema_monitoramento_temperatura_umidade` e foi desenvolvido na Arduino IDE. O arquivo principal `sistema_monitoramento_temperatura_umidade.ino` inclui os módulos de conexão Wi-Fi, configuração do MQTT e funções de coleta de dados e controle do relé.
+O código principal está localizado na pasta `code.ino` e foi desenvolvido na Arduino IDE. O arquivo `Sistema de Monitoramento de Temperatura e Umidade` inclui o documento especificando detalhadamente os módulos de conexão Wi-Fi, configuração do MQTT e funções de coleta de dados e controle do relé.
 
 ## Hardware
 
